@@ -1,7 +1,5 @@
 
 # API Development Course Project
-### Author: Israt Jahan Sumiya <isratjahan.sumiya@tuni.fi>
-### Date: 2022-04-24
 
 This api uses express framework for http server and Sequelize framework for database.It allows searching, adding, modifying and deleting informations.
 
