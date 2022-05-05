@@ -1,7 +1,7 @@
 
 # Rest API
 
-This api uses express framework for http server and Sequelize framework for database.It allows searching, adding, modifying and deleting informations.
+This api uses express framework for http server and Sequelize framework for database.It allows searching, adding, modifying and deleting information.
 
 ## Installations
 
